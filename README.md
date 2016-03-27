@@ -1,7 +1,7 @@
 # practice repo
 
 1. Part_Of_Speech_Label
-  词性标记（viterbi算法）
+  词性标记（隐马尔科夫模型，viterbi算法）
 2. TextCluster
   文本分类（朴素贝叶斯算法）
 3. TopicClassification
